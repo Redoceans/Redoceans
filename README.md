@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Redoceans
+- 👋 Hi, I’m @Redoceans. I Using AutoHotKey and Studying...
 
 <!---
 Redoceans/Redoceans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
